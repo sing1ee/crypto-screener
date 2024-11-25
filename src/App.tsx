@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Search, Loader2 } from 'lucide-react';
 import { Asset } from './types';
 import { AssetCard } from './components/AssetCard';
